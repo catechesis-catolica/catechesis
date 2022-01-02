@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753599060397",
+    "project_id": "catechesis-app-00",
+    "storage_bucket": "catechesis-app-00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753599060397:android:a724fd98f41d97f5ace924",
+        "android_client_info": {
+          "package_name": "catechesis.rian.catechesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753599060397-u2eb514c2k7ols836o79d4vs1d33s9j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "catechesis.rian.catechesis",
+            "certificate_hash": "9bf0446f79fe2af375e3d41b1d6a6e4e85ea827a"
+          }
+        },
+        {
+          "client_id": "753599060397-a5rof3be6unlak8afi96er8g1ptu4gdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp8E-qc_jlUeiT5G5BdI39VP2ujVHmtBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753599060397-a5rof3be6unlak8afi96er8g1ptu4gdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
