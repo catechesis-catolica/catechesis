@@ -32,4 +32,10 @@ List<CardOptions> cardOptions = [
     description: "Documento que descreve a fé da Igreja Católica",
     color: AppColors.secondary, 
   ),
+    CardOptions(
+    id: 4,
+    title: "Santo Amigo",
+    description: "Conheço a vida dos santos",
+    color: AppColors.primary, 
+  ),
 ];

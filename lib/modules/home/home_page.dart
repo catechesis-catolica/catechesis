@@ -59,8 +59,7 @@ class _HomePageState extends State<HomePage> {
       ),
       body: const Body(), 
       //body: pages[controller.currentPage], //MUDAR DE PÁGINA
-      
-      bottomNavigationBar: SizedBox(
+      /*bottomNavigationBar: SizedBox(
         height: 90,
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -76,7 +75,7 @@ class _HomePageState extends State<HomePage> {
             )),
             GestureDetector(
               onTap: () {
-                print("Clicou");
+                print('Clicou');
               },
               child: Container(
                 width: 56,
@@ -96,11 +95,11 @@ class _HomePageState extends State<HomePage> {
               setState(() {});
             }, 
             icon: const Icon(
-              Icons.home
+              Icons.person
             )),
           ], 
         ),
-      ),
+      ),*/
     );
   }
 }
